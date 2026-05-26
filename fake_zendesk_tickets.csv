@@ -1,0 +1,16 @@
+ticket_id,issue_text,category,priority
+1001,Employee cannot clock in on mobile app,Timekeeping,Medium
+1002,Payroll deduction amount appears incorrect,Payroll,High
+1003,Manager cannot approve PTO request,PTO,Medium
+1004,Employee login keeps failing on desktop,Access,High
+1005,Schedule is not visible to employee,Timekeeping,Low
+1006,Overtime hours calculated incorrectly,Payroll,High
+1007,Employee unable to reset password,Access,Medium
+1008,Timecard punches missing from yesterday,Timekeeping,High
+1009,Direct deposit information not updating,Payroll,Medium
+1010,Employee confused about PTO balance,PTO,Low
+1011,Mobile app crashing during clock in,Timekeeping,Medium
+1012,Manager approval workflow unclear,PTO,Medium
+1013,Payroll taxes appear incorrect,Payroll,High
+1014,Employee account locked after password attempts,Access,Medium
+1015,Shift swap feature causing confusion,Scheduling,Low
